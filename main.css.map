@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA;IACI,6BAA6B;IAC7B,qBAAqB;AACzB;;AAEA;IACI,qBAAqB;AACzB,C","sources":["webpack:///./src/style.css"],"sourcesContent":["video {\r\n    -webkit-transform: scaleX(-1);\r\n    transform: scaleX(-1);\r\n}\r\n\r\na-scene {\r\n    transform: scaleX(-1);\r\n}"],"names":[],"sourceRoot":""}

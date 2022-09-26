@@ -1,0 +1,10 @@
+video {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+a-scene {
+    transform: scaleX(-1);
+}
+
+/*# sourceMappingURL=main.css.map*/
